@@ -1,6 +1,6 @@
 # Numerical Companion: Tunnelling, Charge Sign, Vacuum Traffic, and the Spin Carrier in Finite-Validation Models
 
-*Ivan Denysov, Lead Researcher, United Field Initiative (UFI). Companion to: "Physics from Finite Validation: The Electron as a Mode of the Vacuum Network" [10.5281/zenodo.20640511]. Code: https://github.com/ivan-denysov/finite-validation-electron*
+*Ivan Denysov, Lead Researcher, United Field Initiative (UFI). Companion to: "Physics from Finite Validation: The Electron as a Mode of the Vacuum Network" 10.5281/zenodo.20640511. Code: https://github.com/ivan-denysov/finite-validation-electron*
 
 ## Purpose and Status Discipline
 
